@@ -1,0 +1,9 @@
+[submodule "pico/Anjay-SmartPot"]
+	path = pico/Anjay-SmartPot
+	url = https://github.com/Kucmasz/Anjay-SmartPot
+[submodule "pico/FreeRTOS-Kernel"]
+	path = pico/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel
+[submodule "pico/pico-sdk"]
+	path = pico/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
